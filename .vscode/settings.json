@@ -1,5 +1,10 @@
 {
   "cSpell.words": [
     "Unfollow"
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#5F0C03",
+    "titleBar.activeBackground": "#841104",
+    "titleBar.activeForeground": "#FFFCFB"
+  }
 }
